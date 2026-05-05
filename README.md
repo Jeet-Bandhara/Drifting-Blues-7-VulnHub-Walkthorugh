@@ -16,11 +16,13 @@
 ## 🧠 Methodology
 
 ```mermaid
+
 flowchart LR
 A[Recon] --> B[Enumeration]
 B --> C[Exploitation]
 C --> D[Privilege Escalation]
 D --> E[Root/User Access]
+
 ```
 
 ---
